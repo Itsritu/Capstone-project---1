@@ -1,6 +1,6 @@
 # Capstone-project--1--Hotel Booking Analysis(EDA)
 # Objective
-We are provided A csv file that contains the record of hotels.
+We are provided a csv file that contains the record of hotels.
 Our main objective is perform EDA on the given dataset and draw useful conclusions about general trends in hotel bookings and how factors governing hotel bookings interact with each other.
 # Dataset
 1) There are 119390 rows.
